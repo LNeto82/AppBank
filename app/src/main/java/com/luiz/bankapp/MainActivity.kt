@@ -8,6 +8,7 @@ import androidx.navigation.compose.*
 import androidx.navigation.compose.rememberNavController
 import com.luiz.bankapp.view.HomeScreen
 import com.luiz.bankapp.view.LoginScreen
+//github
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
